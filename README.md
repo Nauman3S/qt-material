@@ -1,4 +1,4 @@
-# PySide Material
+# PySide Material for Raspberry Pi
 
 This is another stylesheet for PySide, this time looks like Material Design.
 

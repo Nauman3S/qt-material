@@ -19,7 +19,7 @@ setup(
 
     download_url='https://github.com/UN-GCPDS/pyside-material',
 
-    install_requires=['pyside2',
+    install_requires=[,
                       ],
 
     include_package_data=True,
